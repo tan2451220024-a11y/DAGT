@@ -49,6 +49,7 @@
 | [0085-maximal-rectangle](https://github.com/tan2451220024-a11y/DAGT/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/tan2451220024-a11y/DAGT/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0090-subsets-ii) |
+| [0217-contains-duplicate](https://github.com/tan2451220024-a11y/DAGT/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0049-group-anagrams](https://github.com/tan2451220024-a11y/DAGT/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tan2451220024-a11y/DAGT/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/tan2451220024-a11y/DAGT/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/tan2451220024-a11y/DAGT/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [0056-merge-intervals](https://github.com/tan2451220024-a11y/DAGT/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tan2451220024-a11y/DAGT/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tan2451220024-a11y/DAGT/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/tan2451220024-a11y/DAGT/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
