@@ -97,6 +97,7 @@
 | [0069-sqrtx](https://github.com/tan2451220024-a11y/DAGT/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tan2451220024-a11y/DAGT/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/tan2451220024-a11y/DAGT/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/tan2451220024-a11y/DAGT/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -200,6 +201,7 @@
 | [0085-maximal-rectangle](https://github.com/tan2451220024-a11y/DAGT/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/tan2451220024-a11y/DAGT/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/tan2451220024-a11y/DAGT/tree/master/0096-unique-binary-search-trees) |
 ## Trie
 |  |
 | ------- |
@@ -316,13 +318,16 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tan2451220024-a11y/DAGT/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/tan2451220024-a11y/DAGT/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tan2451220024-a11y/DAGT/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/tan2451220024-a11y/DAGT/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/tan2451220024-a11y/DAGT/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
