@@ -66,6 +66,7 @@
 | [0073-set-matrix-zeroes](https://github.com/tan2451220024-a11y/DAGT/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/tan2451220024-a11y/DAGT/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/tan2451220024-a11y/DAGT/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tan2451220024-a11y/DAGT/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0091-decode-ways](https://github.com/tan2451220024-a11y/DAGT/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/tan2451220024-a11y/DAGT/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/tan2451220024-a11y/DAGT/tree/master/0097-interleaving-string) |
+| [0242-valid-anagram](https://github.com/tan2451220024-a11y/DAGT/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0075-sort-colors](https://github.com/tan2451220024-a11y/DAGT/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tan2451220024-a11y/DAGT/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tan2451220024-a11y/DAGT/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tan2451220024-a11y/DAGT/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
