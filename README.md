@@ -30,6 +30,7 @@
 | [0051-n-queens](https://github.com/tan2451220024-a11y/DAGT/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tan2451220024-a11y/DAGT/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tan2451220024-a11y/DAGT/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/tan2451220024-a11y/DAGT/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0044-wildcard-matching](https://github.com/tan2451220024-a11y/DAGT/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/tan2451220024-a11y/DAGT/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tan2451220024-a11y/DAGT/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
@@ -204,4 +206,5 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/tan2451220024-a11y/DAGT/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/tan2451220024-a11y/DAGT/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
