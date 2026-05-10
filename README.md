@@ -25,6 +25,7 @@
 | [0045-jump-game-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/tan2451220024-a11y/DAGT/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/tan2451220024-a11y/DAGT/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0013-roman-to-integer](https://github.com/tan2451220024-a11y/DAGT/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/tan2451220024-a11y/DAGT/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/tan2451220024-a11y/DAGT/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/tan2451220024-a11y/DAGT/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/tan2451220024-a11y/DAGT/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tan2451220024-a11y/DAGT/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/tan2451220024-a11y/DAGT/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
