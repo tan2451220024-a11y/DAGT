@@ -50,6 +50,7 @@
 | [0088-merge-sorted-array](https://github.com/tan2451220024-a11y/DAGT/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/tan2451220024-a11y/DAGT/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/tan2451220024-a11y/DAGT/tree/master/0605-can-place-flowers) |
 ## Hash Table
 |  |
 | ------- |
@@ -311,6 +312,7 @@
 | [0044-wildcard-matching](https://github.com/tan2451220024-a11y/DAGT/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tan2451220024-a11y/DAGT/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/tan2451220024-a11y/DAGT/tree/master/0605-can-place-flowers) |
 ## Combinatorics
 |  |
 | ------- |
