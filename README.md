@@ -74,6 +74,7 @@
 | [0061-rotate-list](https://github.com/tan2451220024-a11y/DAGT/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tan2451220024-a11y/DAGT/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/tan2451220024-a11y/DAGT/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0075-sort-colors](https://github.com/tan2451220024-a11y/DAGT/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/tan2451220024-a11y/DAGT/tree/master/0086-partition-list) |
 ## Dynamic Programming
 |  |
 | ------- |
