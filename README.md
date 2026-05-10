@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tan2451220024-a11y/DAGT/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/tan2451220024-a11y/DAGT/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
