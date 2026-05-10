@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/tan2451220024-a11y/DAGT/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tan2451220024-a11y/DAGT/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tan2451220024-a11y/DAGT/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/tan2451220024-a11y/DAGT/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0005-longest-palindromic-substring](https://github.com/tan2451220024-a11y/DAGT/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/tan2451220024-a11y/DAGT/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tan2451220024-a11y/DAGT/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/tan2451220024-a11y/DAGT/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | ------- |
 | [0015-3sum](https://github.com/tan2451220024-a11y/DAGT/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tan2451220024-a11y/DAGT/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/tan2451220024-a11y/DAGT/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |
