@@ -145,6 +145,7 @@
 | [0093-restore-ip-addresses](https://github.com/tan2451220024-a11y/DAGT/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/tan2451220024-a11y/DAGT/tree/master/0097-interleaving-string) |
 | [0242-valid-anagram](https://github.com/tan2451220024-a11y/DAGT/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/tan2451220024-a11y/DAGT/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/tan2451220024-a11y/DAGT/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/tan2451220024-a11y/DAGT/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/tan2451220024-a11y/DAGT/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/tan2451220024-a11y/DAGT/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/tan2451220024-a11y/DAGT/tree/master/0097-interleaving-string) |
+| [0392-is-subsequence](https://github.com/tan2451220024-a11y/DAGT/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
