@@ -98,6 +98,7 @@
 | [0043-multiply-strings](https://github.com/tan2451220024-a11y/DAGT/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/tan2451220024-a11y/DAGT/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/tan2451220024-a11y/DAGT/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/tan2451220024-a11y/DAGT/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
