@@ -94,6 +94,7 @@
 | [0067-add-binary](https://github.com/tan2451220024-a11y/DAGT/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tan2451220024-a11y/DAGT/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tan2451220024-a11y/DAGT/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/tan2451220024-a11y/DAGT/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [0077-combinations](https://github.com/tan2451220024-a11y/DAGT/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tan2451220024-a11y/DAGT/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tan2451220024-a11y/DAGT/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/tan2451220024-a11y/DAGT/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | [0029-divide-two-integers](https://github.com/tan2451220024-a11y/DAGT/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/tan2451220024-a11y/DAGT/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/tan2451220024-a11y/DAGT/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/tan2451220024-a11y/DAGT/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
