@@ -54,6 +54,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tan2451220024-a11y/DAGT/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tan2451220024-a11y/DAGT/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tan2451220024-a11y/DAGT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/tan2451220024-a11y/DAGT/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/tan2451220024-a11y/DAGT/tree/master/0605-can-place-flowers) |
 ## Hash Table
@@ -225,6 +226,7 @@
 | [0097-interleaving-string](https://github.com/tan2451220024-a11y/DAGT/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/tan2451220024-a11y/DAGT/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tan2451220024-a11y/DAGT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/tan2451220024-a11y/DAGT/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
