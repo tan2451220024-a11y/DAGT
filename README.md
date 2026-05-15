@@ -56,6 +56,7 @@
 | [0119-pascals-triangle-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tan2451220024-a11y/DAGT/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tan2451220024-a11y/DAGT/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/tan2451220024-a11y/DAGT/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tan2451220024-a11y/DAGT/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/tan2451220024-a11y/DAGT/tree/master/0605-can-place-flowers) |
 ## Hash Table
@@ -75,6 +76,7 @@
 | [0076-minimum-window-substring](https://github.com/tan2451220024-a11y/DAGT/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tan2451220024-a11y/DAGT/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tan2451220024-a11y/DAGT/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/tan2451220024-a11y/DAGT/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tan2451220024-a11y/DAGT/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tan2451220024-a11y/DAGT/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -186,6 +188,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tan2451220024-a11y/DAGT/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tan2451220024-a11y/DAGT/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tan2451220024-a11y/DAGT/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/tan2451220024-a11y/DAGT/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -248,6 +251,7 @@
 | [0056-merge-intervals](https://github.com/tan2451220024-a11y/DAGT/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tan2451220024-a11y/DAGT/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tan2451220024-a11y/DAGT/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tan2451220024-a11y/DAGT/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tan2451220024-a11y/DAGT/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tan2451220024-a11y/DAGT/tree/master/0242-valid-anagram) |
 ## Backtracking
@@ -414,4 +418,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/tan2451220024-a11y/DAGT/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/tan2451220024-a11y/DAGT/tree/master/0112-path-sum) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tan2451220024-a11y/DAGT/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
