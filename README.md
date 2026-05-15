@@ -468,4 +468,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tan2451220024-a11y/DAGT/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/tan2451220024-a11y/DAGT/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
