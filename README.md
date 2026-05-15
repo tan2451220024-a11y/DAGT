@@ -76,6 +76,7 @@
 | [0076-minimum-window-substring](https://github.com/tan2451220024-a11y/DAGT/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tan2451220024-a11y/DAGT/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tan2451220024-a11y/DAGT/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/tan2451220024-a11y/DAGT/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/tan2451220024-a11y/DAGT/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tan2451220024-a11y/DAGT/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tan2451220024-a11y/DAGT/tree/master/0242-valid-anagram) |
@@ -94,6 +95,7 @@
 | [0086-partition-list](https://github.com/tan2451220024-a11y/DAGT/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tan2451220024-a11y/DAGT/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0141-linked-list-cycle](https://github.com/tan2451220024-a11y/DAGT/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [0086-partition-list](https://github.com/tan2451220024-a11y/DAGT/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/tan2451220024-a11y/DAGT/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tan2451220024-a11y/DAGT/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/tan2451220024-a11y/DAGT/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/tan2451220024-a11y/DAGT/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
