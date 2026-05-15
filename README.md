@@ -297,6 +297,7 @@
 | [0085-maximal-rectangle](https://github.com/tan2451220024-a11y/DAGT/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tan2451220024-a11y/DAGT/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tan2451220024-a11y/DAGT/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tan2451220024-a11y/DAGT/tree/master/0144-binary-tree-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -379,6 +380,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tan2451220024-a11y/DAGT/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tan2451220024-a11y/DAGT/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tan2451220024-a11y/DAGT/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -404,6 +406,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tan2451220024-a11y/DAGT/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tan2451220024-a11y/DAGT/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tan2451220024-a11y/DAGT/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -429,6 +432,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tan2451220024-a11y/DAGT/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tan2451220024-a11y/DAGT/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tan2451220024-a11y/DAGT/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tan2451220024-a11y/DAGT/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
