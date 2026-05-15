@@ -124,6 +124,7 @@
 | [0089-gray-code](https://github.com/tan2451220024-a11y/DAGT/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/tan2451220024-a11y/DAGT/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/tan2451220024-a11y/DAGT/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/tan2451220024-a11y/DAGT/tree/master/0171-excel-sheet-column-number) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0115-distinct-subsequences](https://github.com/tan2451220024-a11y/DAGT/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/tan2451220024-a11y/DAGT/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/tan2451220024-a11y/DAGT/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/tan2451220024-a11y/DAGT/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/tan2451220024-a11y/DAGT/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/tan2451220024-a11y/DAGT/tree/master/0392-is-subsequence) |
 ## Sliding Window
